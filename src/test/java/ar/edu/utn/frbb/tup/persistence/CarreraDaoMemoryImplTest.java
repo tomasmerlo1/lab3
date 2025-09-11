@@ -15,7 +15,7 @@ public class CarreraDaoMemoryImplTest {
     @Autowired
     private CarreraDaoMemoryImpl carreraDao;
 
-    private static final String TEST_CSV_FILE_PATH = "C:/tup/Academic-Management-System/src/main/java/ar/edu/utn/frbb/tup/persistence/dataCSV/carreraDATA.csv";
+    private static final String TEST_CSV_FILE_PATH = "D:/lab3/src/main/java/ar/edu/utn/frbb/tup/persistence/dataCSV/carreraDATA.csv";
 
     @BeforeEach
     public void setUp() {
